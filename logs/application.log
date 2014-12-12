@@ -1,0 +1,12 @@
+2014-12-02 01:01:39,557 - [INFO] - from play in pool-4-thread-1 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-12-02 01:02:08,822 - [INFO] - from play in play-internal-execution-context-1 
+Starting application default Akka system.
+
+2014-12-02 01:02:09,315 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-02 01:02:10,201 - [INFO] - from akka.event.slf4j.Slf4jLogger in play-akka.actor.default-dispatcher-3 
+Slf4jLogger started
+
